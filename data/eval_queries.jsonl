@@ -1,0 +1,36 @@
+{"query":"Что такое LLM в контексте AI-продуктов?","expected_route":"cheap"}
+{"query":"Переведи hello world на русский язык.","expected_route":"cheap"}
+{"query":"Что означает API простыми словами?","expected_route":"cheap"}
+{"query":"Дай краткое определение RAG для менеджера продукта.","expected_route":"cheap"}
+{"query":"Сформатируй это в одну короткую фразу: модель выбирает маршрут обработки запроса.","expected_route":"cheap"}
+{"query":"Как расшифровывается MVP?","expected_route":"cheap"}
+{"query":"Кратко опиши, что такое latency.","expected_route":"cheap"}
+{"query":"Переведи на английский: система маршрутизации запросов.","expected_route":"cheap"}
+{"query":"Что такое токен в LLM?","expected_route":"cheap"}
+{"query":"Напиши короткий заголовок для раздела про стоимость API.","expected_route":"cheap"}
+{"query":"Сделай ответ короче: LLM Router снижает стоимость обработки запросов.","expected_route":"cheap"}
+{"query":"Что значит fallback в backend-системах?","expected_route":"cheap"}
+{"query":"Сравни RAG и fine-tuning для корпоративного ассистента с учетом стоимости и поддержки.","expected_route":"strong"}
+{"query":"Как оптимизировать latency в multi-agent системе без потери качества ответов?","expected_route":"strong"}
+{"query":"Объясни tradeoff между quality и cost в LLM systems для SaaS-продукта.","expected_route":"strong"}
+{"query":"Проанализируй архитектуру LLM router для продукта с 100 тысячами запросов в месяц.","expected_route":"strong"}
+{"query":"Какую стратегию выбрать для маршрутизации приватных и публичных запросов в enterprise assistant?","expected_route":"strong"}
+{"query":"Сравни подходы rule-based routing и LLM-as-a-router для production-нагрузки.","expected_route":"strong"}
+{"query":"Предложи архитектуру fallback между cheap, strong и agent маршрутами.","expected_route":"strong"}
+{"query":"Как оценивать качество маршрутизации, если часть запросов уходит в дешевую модель?","expected_route":"strong"}
+{"query":"Объясни, как балансировать стоимость, latency и надежность при выборе LLM провайдера.","expected_route":"strong"}
+{"query":"Реши задачу оценки: если 60% запросов дешевые, как изменится средняя стоимость inference?","expected_route":"strong"}
+{"query":"Оптимизируй схему логирования route decisions для последующего анализа качества.","expected_route":"strong"}
+{"query":"Разбери риски vendor lock-in при использовании OpenAI и OpenRouter в одном router layer.","expected_route":"strong"}
+{"query":"Найди последние цены OpenAI API и сравни их с OpenRouter.","expected_route":"agent"}
+{"query":"Поищи свежие статьи про LLM routing и составь список источников.","expected_route":"agent"}
+{"query":"Проанализируй README проекта и предложи улучшения структуры документации.","expected_route":"agent"}
+{"query":"Найди ошибку в Python traceback и предложи исправление в коде.","expected_route":"agent"}
+{"query":"Посмотри структуру репозитория и предложи, какие модули стоит вынести отдельно.","expected_route":"agent"}
+{"query":"Проверь файлы проекта и найди места, где не хватает тестов.","expected_route":"agent"}
+{"query":"Открой документацию FastAPI и проверь актуальный способ описания response_model.","expected_route":"agent"}
+{"query":"Найди в репозитории все упоминания OPENAI_API_KEY и проверь, нет ли утечки секретов.","expected_route":"agent"}
+{"query":"Запусти тесты, посмотри падение и исправь проблему в routing logic.","expected_route":"agent"}
+{"query":"Поищи в интернете актуальные best practices по evaluation LLM routing.","expected_route":"agent"}
+{"query":"Проанализируй файл app/routing_config.py и предложи патч для новых сигналов.","expected_route":"agent"}
+{"query":"Найди ошибку в конфигурации Docker Compose и подготовь diff с исправлением.","expected_route":"agent"}

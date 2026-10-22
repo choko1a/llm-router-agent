@@ -1,0 +1,300 @@
+{"query":"Что такое LLM простыми словами?","expected_route":"cheap"}
+{"query":"Объясни API одним предложением.","expected_route":"cheap"}
+{"query":"Переведи на английский: доброе утро.","expected_route":"cheap"}
+{"query":"Переведи на русский: cost optimization.","expected_route":"cheap"}
+{"query":"Что означает аббревиатура RAG?","expected_route":"cheap"}
+{"query":"Кратко объясни, что такое токен в LLM.","expected_route":"cheap"}
+{"query":"Сделай список из трех пунктов про преимущества FastAPI.","expected_route":"cheap"}
+{"query":"Исправь опечатку: искуственный интелект.","expected_route":"cheap"}
+{"query":"Что такое latency в API?","expected_route":"cheap"}
+{"query":"Напиши короткий заголовок для раздела про роутинг.","expected_route":"cheap"}
+{"query":"Сократи фразу: система автоматически выбирает подходящую модель.","expected_route":"cheap"}
+{"query":"Что значит fallback в приложении?","expected_route":"cheap"}
+{"query":"Переведи на английский: маршрутизация запросов.","expected_route":"cheap"}
+{"query":"Что такое JSONL формат?","expected_route":"cheap"}
+{"query":"Объясни webhook простыми словами.","expected_route":"cheap"}
+{"query":"Сделай текст вежливее: пришлите отчет сегодня.","expected_route":"cheap"}
+{"query":"Напиши одну строку описания для health endpoint.","expected_route":"cheap"}
+{"query":"Что такое переменная окружения?","expected_route":"cheap"}
+{"query":"Переведи на русский: rate limit exceeded.","expected_route":"cheap"}
+{"query":"Сформулируй короткий ответ клиенту: задача принята в работу.","expected_route":"cheap"}
+{"query":"Что означает SDK?","expected_route":"cheap"}
+{"query":"Кратко объясни, что такое inference.","expected_route":"cheap"}
+{"query":"Напиши три варианта названия для AI ассистента.","expected_route":"cheap"}
+{"query":"Исправь пунктуацию: привет как дела.","expected_route":"cheap"}
+{"query":"Что такое endpoint в backend?","expected_route":"cheap"}
+{"query":"Переведи на английский: конфигурация модели.","expected_route":"cheap"}
+{"query":"Сделай короткое описание функции route.","expected_route":"cheap"}
+{"query":"Что значит MVP в продуктовой разработке?","expected_route":"cheap"}
+{"query":"Объясни docker compose в двух предложениях.","expected_route":"cheap"}
+{"query":"Сократи сообщение: мы получили ваш запрос и скоро ответим.","expected_route":"cheap"}
+{"query":"Что такое pytest?","expected_route":"cheap"}
+{"query":"Переформулируй нейтрально: это плохая идея.","expected_route":"cheap"}
+{"query":"Переведи на русский: mock response.","expected_route":"cheap"}
+{"query":"Что означает SLA?","expected_route":"cheap"}
+{"query":"Дай краткое определение microservice.","expected_route":"cheap"}
+{"query":"Сделай markdown-список из слов: cheap, strong, agent.","expected_route":"cheap"}
+{"query":"Исправь опечатку: маршрутизацыя.","expected_route":"cheap"}
+{"query":"Что такое логирование?","expected_route":"cheap"}
+{"query":"Переведи на английский: пользовательский запрос.","expected_route":"cheap"}
+{"query":"Напиши короткую подпись к графику latency.","expected_route":"cheap"}
+{"query":"Что такое Pydantic модель?","expected_route":"cheap"}
+{"query":"Объясни API key простыми словами.","expected_route":"cheap"}
+{"query":"Сделай текст короче: текущая версия работает без внешних API.","expected_route":"cheap"}
+{"query":"Переведи на русский: production traffic.","expected_route":"cheap"}
+{"query":"Что такое classifier?","expected_route":"cheap"}
+{"query":"Напиши короткий ответ: тесты прошли успешно.","expected_route":"cheap"}
+{"query":"Что значит open source?","expected_route":"cheap"}
+{"query":"Переведи на английский: отчет об оценке.","expected_route":"cheap"}
+{"query":"Сделай фразу формальнее: все ок, можно запускать.","expected_route":"cheap"}
+{"query":"Что такое confusion matrix?","expected_route":"cheap"}
+{"query":"Кратко объясни TF-IDF.","expected_route":"cheap"}
+{"query":"Исправь грамматику: данные был загружен.","expected_route":"cheap"}
+{"query":"Что такое prompt?","expected_route":"cheap"}
+{"query":"Переведи на русский: fallback policy.","expected_route":"cheap"}
+{"query":"Сделай один тезис про снижение стоимости LLM.","expected_route":"cheap"}
+{"query":"Что значит route_type?","expected_route":"cheap"}
+{"query":"Объясни разницу между mock и real mode кратко.","expected_route":"cheap"}
+{"query":"Напиши короткое сообщение для README о запуске тестов.","expected_route":"cheap"}
+{"query":"Что такое FastAPI?","expected_route":"cheap"}
+{"query":"Переведи на английский: сильная модель.","expected_route":"cheap"}
+{"query":"Сократи: приложение поддерживает несколько провайдеров моделей.","expected_route":"cheap"}
+{"query":"Что означает HTTP 502?","expected_route":"cheap"}
+{"query":"Сделай короткий список env-переменных для запуска.","expected_route":"cheap"}
+{"query":"Переведи на русский: request timeout.","expected_route":"cheap"}
+{"query":"Что такое repository?","expected_route":"cheap"}
+{"query":"Объясни JSON простыми словами.","expected_route":"cheap"}
+{"query":"Сформулируй короткое предупреждение: не коммитить .env.","expected_route":"cheap"}
+{"query":"Что значит latency_ms?","expected_route":"cheap"}
+{"query":"Переведи на английский: приватные данные.","expected_route":"cheap"}
+{"query":"Сделай текст дружелюбнее: ошибка исправлена.","expected_route":"cheap"}
+{"query":"Что такое unit test?","expected_route":"cheap"}
+{"query":"Кратко объясни LogisticRegression.","expected_route":"cheap"}
+{"query":"Исправь опечатку: провайдерр.","expected_route":"cheap"}
+{"query":"Что такое CLI?","expected_route":"cheap"}
+{"query":"Переведи на русский: model provider.","expected_route":"cheap"}
+{"query":"Напиши короткий commit message для обновления README.","expected_route":"cheap"}
+{"query":"Что означает YAML?","expected_route":"cheap"}
+{"query":"Объясни, что такое SDK, для новичка.","expected_route":"cheap"}
+{"query":"Сделай предложение короче: маршрутизатор выбирает дешевый или сильный маршрут.","expected_route":"cheap"}
+{"query":"Что такое evaluation dataset?","expected_route":"cheap"}
+{"query":"Переведи на английский: тестовый набор запросов.","expected_route":"cheap"}
+{"query":"Напиши одну строку описания для classifier mode.","expected_route":"cheap"}
+{"query":"Что значит real provider?","expected_route":"cheap"}
+{"query":"Исправь стиль: юзер отправил промпт.","expected_route":"cheap"}
+{"query":"Сделай краткий ответ: почему нужен .gitignore?","expected_route":"cheap"}
+{"query":"Что такое timestamp?","expected_route":"cheap"}
+{"query":"Переведи на русский: routing signals.","expected_route":"cheap"}
+{"query":"Сформулируй короткий tooltip для кнопки запуска evaluation.","expected_route":"cheap"}
+{"query":"Что такое cost-aware routing?","expected_route":"cheap"}
+{"query":"Объясни в одном предложении, зачем нужен .env.example.","expected_route":"cheap"}
+{"query":"Сделай markdown-заголовок для раздела Use cases.","expected_route":"cheap"}
+{"query":"Что такое model name в отчете?","expected_route":"cheap"}
+{"query":"Переведи на английский: отчет сохранен.","expected_route":"cheap"}
+{"query":"Напиши короткий ответ пользователю: файл создан.","expected_route":"cheap"}
+{"query":"Что такое retry в API-клиенте?","expected_route":"cheap"}
+{"query":"Сократи фразу: classifier используется как дополнительный режим маршрутизации.","expected_route":"cheap"}
+{"query":"Исправь опечатку: евалюация роутера.","expected_route":"cheap"}
+{"query":"Что означает status ok в healthcheck?","expected_route":"cheap"}
+{"query":"Переведи на русский: provider selection.","expected_route":"cheap"}
+{"query":"Сделай короткое описание OpenRouter без деталей.","expected_route":"cheap"}
+{"query":"Сравни RAG и fine-tuning для внутреннего ассистента с точки зрения стоимости, качества и поддержки.","expected_route":"strong"}
+{"query":"Объясни, как выбрать архитектуру LLM-router для SaaS-продукта с высоким трафиком.","expected_route":"strong"}
+{"query":"Проанализируй плюсы и минусы локальных LLM по сравнению с API-моделями.","expected_route":"strong"}
+{"query":"Как оптимизировать latency в multi-agent системе без сильной потери качества?","expected_route":"strong"}
+{"query":"Предложи стратегию fallback между дешевой и сильной моделью для production traffic.","expected_route":"strong"}
+{"query":"Разбери trade-off между стоимостью inference и качеством ответа в customer support сценарии.","expected_route":"strong"}
+{"query":"Как спроектировать evaluation pipeline для проверки качества маршрутизации LLM-запросов?","expected_route":"strong"}
+{"query":"Сравни rule-based router и classifier router для раннего MVP.","expected_route":"strong"}
+{"query":"Объясни, какие метрики нужны для принятия решения о переключении модели.","expected_route":"strong"}
+{"query":"Предложи архитектуру хранения route decisions для последующего анализа качества.","expected_route":"strong"}
+{"query":"Как балансировать privacy, cost и latency в корпоративном AI-ассистенте?","expected_route":"strong"}
+{"query":"Разработай подход к сегментации пользовательских запросов по сложности без внешнего поиска.","expected_route":"strong"}
+{"query":"Оцени риски использования одной сильной модели для всех типов запросов.","expected_route":"strong"}
+{"query":"Объясни, почему fallback cheap -> strong снижает риск деградации качества.","expected_route":"strong"}
+{"query":"Сравни OpenAI и OpenRouter как инфраструктурные варианты без обращения к текущим ценам.","expected_route":"strong"}
+{"query":"Как выбрать порог confidence для автоматического escalation в strong route?","expected_route":"strong"}
+{"query":"Предложи методику A/B тестирования cheap и strong маршрутов.","expected_route":"strong"}
+{"query":"Как оценить экономический эффект от внедрения LLM-router на 200 тысяч запросов в месяц?","expected_route":"strong"}
+{"query":"Объясни, когда classifier router лучше heuristic rules, а когда хуже.","expected_route":"strong"}
+{"query":"Разбери архитектурные ограничения LLM-as-Router в production-системе.","expected_route":"strong"}
+{"query":"Как построить систему мониторинга качества ответов без ручной проверки каждого запроса?","expected_route":"strong"}
+{"query":"Предложи дизайн fallback policy для трех маршрутов: cheap, strong и agent.","expected_route":"strong"}
+{"query":"Сравни подходы к privacy-sensitive routing для облачных и on-prem решений.","expected_route":"strong"}
+{"query":"Как оптимизировать стоимость LLM API при сохранении SLA по времени ответа?","expected_route":"strong"}
+{"query":"Объясни, почему agent route должен быть дороже и медленнее обычного strong route.","expected_route":"strong"}
+{"query":"Предложи схему оценки false positive и false negative для route classification.","expected_route":"strong"}
+{"query":"Как спроектировать контракт ответа /route, чтобы его было удобно логировать и анализировать?","expected_route":"strong"}
+{"query":"Разбери, какие типы запросов опасно отправлять в cheap model.","expected_route":"strong"}
+{"query":"Сравни TF-IDF LogisticRegression и LLM-router для классификации запросов.","expected_route":"strong"}
+{"query":"Как выбрать между точностью маршрутизации и интерпретируемостью правил?","expected_route":"strong"}
+{"query":"Предложи стратегию миграции от mock provider к реальным LLM-провайдерам.","expected_route":"strong"}
+{"query":"Объясни, как избежать vendor lock-in при проектировании provider layer.","expected_route":"strong"}
+{"query":"Как оценивать качество маршрутизации на несбалансированном датасете запросов?","expected_route":"strong"}
+{"query":"Разбери плюсы и минусы сохранения trained classifier в репозитории.","expected_route":"strong"}
+{"query":"Предложи архитектуру для поддержки разных моделей cheap и strong у нескольких провайдеров.","expected_route":"strong"}
+{"query":"Как снизить latency LLM-router, если сам роутер вызывает маленькую модель?","expected_route":"strong"}
+{"query":"Объясни, почему rules mode должен оставаться безопасным default.","expected_route":"strong"}
+{"query":"Разработай подход к ручной разметке запросов для обучения router classifier.","expected_route":"strong"}
+{"query":"Сравни macro accuracy и overall accuracy для оценки роутера.","expected_route":"strong"}
+{"query":"Как построить confusion matrix и какие ошибки в ней самые дорогие для продукта?","expected_route":"strong"}
+{"query":"Предложи стратегию обработки запросов с низким confidence у classifier router.","expected_route":"strong"}
+{"query":"Объясни, как менять routing rules без регрессий в существующем поведении.","expected_route":"strong"}
+{"query":"Разбери риски, если LLM-router вернет невалидный JSON.","expected_route":"strong"}
+{"query":"Как проектировать robust JSON parsing для ответа модели без внешних инструментов?","expected_route":"strong"}
+{"query":"Предложи метод оценки стоимости agent route относительно обычного strong route.","expected_route":"strong"}
+{"query":"Сравни batch evaluation и online evaluation для LLM-router.","expected_route":"strong"}
+{"query":"Как определить, что новый датасет evaluation стал более честным?","expected_route":"strong"}
+{"query":"Объясни trade-off между большим test dataset и скоростью регулярных проверок.","expected_route":"strong"}
+{"query":"Предложи схему версионирования evaluation reports для команды разработки.","expected_route":"strong"}
+{"query":"Как интерпретировать ситуацию, когда classifier accuracy выше rules accuracy на training dataset?","expected_route":"strong"}
+{"query":"Разбери, как избежать переобучения router classifier на маленьком наборе запросов.","expected_route":"strong"}
+{"query":"Сравни символьные n-граммы и словарные признаки для русскоязычных запросов.","expected_route":"strong"}
+{"query":"Как спроектировать расширяемый интерфейс provider abstraction для будущих моделей?","expected_route":"strong"}
+{"query":"Объясни, зачем route decision должен включать reason и signals.","expected_route":"strong"}
+{"query":"Предложи модель данных для хранения query, predicted_route и expected_route.","expected_route":"strong"}
+{"query":"Как оценить влияние routing mistakes на пользовательский опыт в B2B SaaS?","expected_route":"strong"}
+{"query":"Разбери, когда privacy-sensitive запрос лучше отправить в strong route, а не agent route.","expected_route":"strong"}
+{"query":"Сравни подходы к кэшированию route decisions для повторяющихся запросов.","expected_route":"strong"}
+{"query":"Как выбрать модели для cheap и strong маршрутов при ограниченном бюджете?","expected_route":"strong"}
+{"query":"Предложи стратегию graceful degradation, если выбранный LLM provider недоступен.","expected_route":"strong"}
+{"query":"Объясни, как route confidence может использоваться в downstream backend logic.","expected_route":"strong"}
+{"query":"Разбери, почему agent route должен явно означать tool usage, а не просто сложный вопрос.","expected_route":"strong"}
+{"query":"Как построить policy для запросов, где одновременно есть privacy и необходимость поиска?","expected_route":"strong"}
+{"query":"Предложи правила разделения user-facing latency и internal processing latency.","expected_route":"strong"}
+{"query":"Сравни статический конфиг routing rules и динамическую конфигурацию из базы данных.","expected_route":"strong"}
+{"query":"Как оценивать качество LLM-as-Router, если expected_route размечен человеком?","expected_route":"strong"}
+{"query":"Объясни, почему dataset для evaluation нельзя полностью копировать из training dataset.","expected_route":"strong"}
+{"query":"Предложи метод анализа ошибок роутера после каждого релиза.","expected_route":"strong"}
+{"query":"Как спроектировать тестовый набор для коротких FAQ и длинных аналитических запросов?","expected_route":"strong"}
+{"query":"Разбери возможные причины, почему cheap route ошибочно выбирается для сложного анализа.","expected_route":"strong"}
+{"query":"Сравни обработку пользовательских запросов в chatbot и backend API router.","expected_route":"strong"}
+{"query":"Как определить минимальный набор signals для production-ready MVP?","expected_route":"strong"}
+{"query":"Предложи стратегию постепенного включения ROUTER_MODE=llm для части трафика.","expected_route":"strong"}
+{"query":"Объясни, как учитывать стоимость retries и fallback в общей стоимости inference.","expected_route":"strong"}
+{"query":"Разбери, как логировать ошибки провайдера без утечки пользовательских данных.","expected_route":"strong"}
+{"query":"Сравни подходы к хранению API keys через env и через secret manager.","expected_route":"strong"}
+{"query":"Как оценить, стоит ли добавлять отдельный route для privacy-sensitive запросов?","expected_route":"strong"}
+{"query":"Предложи дизайн эксперимента для сравнения OpenAI и OpenRouter в одном router layer.","expected_route":"strong"}
+{"query":"Объясни, почему fallback на rules полезен при сбое LLM-router.","expected_route":"strong"}
+{"query":"Как построить roadmap перехода от MVP к production LLM routing platform?","expected_route":"strong"}
+{"query":"Разбери компромисс между простотой FastAPI MVP и будущей микросервисной архитектурой.","expected_route":"strong"}
+{"query":"Сравни использование локального classifier и внешней модели для маршрутизации запросов.","expected_route":"strong"}
+{"query":"Как определить, какие ошибки маршрутизации критичны для enterprise клиентов?","expected_route":"strong"}
+{"query":"Предложи метрики для отчета руководителю о пользе LLM-router.","expected_route":"strong"}
+{"query":"Объясни, как оценивать latency в сценарии cheap -> strong fallback.","expected_route":"strong"}
+{"query":"Разбери риски сохранения пользовательских query в evaluation reports.","expected_route":"strong"}
+{"query":"Как выбрать формат JSONL для датасета вместо CSV?","expected_route":"strong"}
+{"query":"Предложи систему версионирования датасетов для router evaluation.","expected_route":"strong"}
+{"query":"Объясни, как качество разметки влияет на classifier router.","expected_route":"strong"}
+{"query":"Сравни deterministic routing и probabilistic routing для AI assistant traffic.","expected_route":"strong"}
+{"query":"Как построить архитектуру, где agent route вызывает инструменты только при необходимости?","expected_route":"strong"}
+{"query":"Проанализируй влияние длинных запросов на выбор маршрута в текущей эвристике.","expected_route":"strong"}
+{"query":"Предложи стратегию обработки неизвестных типов запросов без внешних инструментов.","expected_route":"strong"}
+{"query":"Как оценить влияние ошибок роутера на стоимость поддержки клиентов?","expected_route":"strong"}
+{"query":"Сравни ручную разметку и синтетическую генерацию данных для router evaluation.","expected_route":"strong"}
+{"query":"Объясни, как построить устойчивую стратегию fallback при частичных сбоях провайдера.","expected_route":"strong"}
+{"query":"Предложи способ измерять качество кратких ответов без привлечения внешних инструментов.","expected_route":"strong"}
+{"query":"Как выбрать оптимальный размер тестового датасета для оценки LLM-router?","expected_route":"strong"}
+{"query":"Разбери компромисс между скоростью cheap route и риском неверной классификации.","expected_route":"strong"}
+{"query":"Сравни хранение routing rules в Python-конфиге и отдельном YAML-файле.","expected_route":"strong"}
+{"query":"Найди актуальные цены OpenAI API и сравни их с OpenRouter.","expected_route":"agent"}
+{"query":"Поищи свежие статьи про LLM routing и выпиши ключевые идеи.","expected_route":"agent"}
+{"query":"Проанализируй README проекта и предложи улучшения структуры.","expected_route":"agent"}
+{"query":"Посмотри структуру репозитория и найди слабые места архитектуры.","expected_route":"agent"}
+{"query":"Найди ошибку в этом Python traceback и предложи исправление.","expected_route":"agent"}
+{"query":"Запусти тесты проекта и объясни, почему они падают.","expected_route":"agent"}
+{"query":"Открой файл app/routing.py и проверь, где можно упростить код.","expected_route":"agent"}
+{"query":"Прочитай data/eval_queries.jsonl и проверь баланс классов.","expected_route":"agent"}
+{"query":"Найди все места, где используется OPENROUTER_API_KEY.","expected_route":"agent"}
+{"query":"Проверь .gitignore и убедись, что .env не попадет в коммит.","expected_route":"agent"}
+{"query":"Сравни актуальные модели OpenRouter для дешевого маршрута и предложи замену.","expected_route":"agent"}
+{"query":"Открой документацию FastAPI и проверь текущий синтаксис response_model.","expected_route":"agent"}
+{"query":"Найди в репозитории дублирующиеся routing signals.","expected_route":"agent"}
+{"query":"Исправь код provider layer, если OpenRouter возвращает пустой ответ.","expected_route":"agent"}
+{"query":"Проверь последние изменения в Git и подготовь краткий changelog.","expected_route":"agent"}
+{"query":"Проанализируй файл reports/evaluation_results.json и объясни ошибки роутера.","expected_route":"agent"}
+{"query":"Найди свежие best practices по LLM-as-Router и сравни с текущей реализацией.","expected_route":"agent"}
+{"query":"Открой scripts/evaluate_router.py и добавь поддержку нового аргумента.","expected_route":"agent"}
+{"query":"Проверь, какие файлы не покрыты тестами, и предложи новые pytest cases.","expected_route":"agent"}
+{"query":"Запусти python -m pytest и исправь первый упавший тест.","expected_route":"agent"}
+{"query":"Найди ошибку в Docker Compose конфигурации и подготовь diff.","expected_route":"agent"}
+{"query":"Прочитай файл .env.example и проверь, нет ли там реальных ключей.","expected_route":"agent"}
+{"query":"Открой документацию OpenAI API и проверь актуальный формат chat completions.","expected_route":"agent"}
+{"query":"Поищи текущие лимиты OpenRouter API для выбранной модели.","expected_route":"agent"}
+{"query":"Проанализируй pyproject или requirements и найди устаревшие зависимости.","expected_route":"agent"}
+{"query":"Проверь структуру папки models и убедись, что classifier pkl загружается.","expected_route":"agent"}
+{"query":"Найди все TODO в проекте и сгруппируй их по модулям.","expected_route":"agent"}
+{"query":"Прочитай README и проверь, совпадают ли команды запуска с реальным кодом.","expected_route":"agent"}
+{"query":"Исправь ошибку импорта в tests/test_evaluation.py после рефакторинга.","expected_route":"agent"}
+{"query":"Открой файл app/llm_router.py и проверь robust JSON parsing на edge cases.","expected_route":"agent"}
+{"query":"Поищи актуальные рекомендации по хранению API keys в локальной разработке.","expected_route":"agent"}
+{"query":"Проверь историю коммитов и найди, когда добавили classifier router.","expected_route":"agent"}
+{"query":"Запусти evaluation на test dataset и сохрани отчет в reports.","expected_route":"agent"}
+{"query":"Найди в логах причину ошибки OpenRouter request failed.","expected_route":"agent"}
+{"query":"Посмотри файлы в app/providers и проверь единообразие интерфейсов.","expected_route":"agent"}
+{"query":"Прочитай traceback из CI и предложи минимальный patch.","expected_route":"agent"}
+{"query":"Открой сайт OpenRouter и проверь правильное имя модели gpt-4o-mini.","expected_route":"agent"}
+{"query":"Проверь, что reports/*.json игнорируются Git после создания отчета.","expected_route":"agent"}
+{"query":"Найди все места, где route_type дублируется с route в ответе API.","expected_route":"agent"}
+{"query":"Запусти локальный сервер uvicorn и проверь endpoint /health.","expected_route":"agent"}
+{"query":"Проанализируй документ llm_router_agent_project.docx и вытащи требования к MVP.","expected_route":"agent"}
+{"query":"Открой презентацию проекта и составь список слайдов про экономический эффект.","expected_route":"agent"}
+{"query":"Проверь, какие запросы из eval_test_queries.jsonl classifier путает чаще всего.","expected_route":"agent"}
+{"query":"Найди последние статьи про evaluation LLM routers и выпиши ссылки.","expected_route":"agent"}
+{"query":"Исправь код так, чтобы output report получал timestamp в имени.","expected_route":"agent"}
+{"query":"Проверь, создается ли папка reports при сохранении отчета.","expected_route":"agent"}
+{"query":"Открой app/config.py и добавь новую env-переменную для модели роутера.","expected_route":"agent"}
+{"query":"Посмотри структуру тестов и предложи, какие фикстуры вынести в conftest.","expected_route":"agent"}
+{"query":"Найди ошибку в regex или JSON parsing, если модель вернула markdown block.","expected_route":"agent"}
+{"query":"Поищи свежие данные о стоимости gpt-4o-mini и обнови оценку cost.","expected_route":"agent"}
+{"query":"Проанализируй текущий репозиторий и найди файлы, которые случайно не должны быть в Git.","expected_route":"agent"}
+{"query":"Запусти линтер, если он настроен, и исправь найденные проблемы.","expected_route":"agent"}
+{"query":"Открой файл tests/test_llm_router.py и добавь кейс для JSON в markdown fence.","expected_route":"agent"}
+{"query":"Прочитай несколько отчетов из reports и сравни accuracy между запусками.","expected_route":"agent"}
+{"query":"Найди в интернете свежие примеры LLM routing benchmark datasets.","expected_route":"agent"}
+{"query":"Проверь, что openai SDK установлен в текущем venv и покажи версию.","expected_route":"agent"}
+{"query":"Исправь failing import после переименования app/classifier_router.py.","expected_route":"agent"}
+{"query":"Проанализируй файл data/eval_test_queries.jsonl и найди дубли внутри классов.","expected_route":"agent"}
+{"query":"Открой Git status и подготовь список файлов для следующего коммита.","expected_route":"agent"}
+{"query":"Запусти команду python scripts/train_router_classifier.py и проверь, создалась ли модель.","expected_route":"agent"}
+{"query":"Поищи актуальную документацию sklearn по LogisticRegression и проверь параметры.","expected_route":"agent"}
+{"query":"Прочитай файл app/providers/openrouter_provider.py и найди возможные ошибки обработки API.","expected_route":"agent"}
+{"query":"Найди, где в проекте используется force_real, и проверь безопасность этого флага.","expected_route":"agent"}
+{"query":"Открой README и добавь пример запуска ROUTER_MODE=llm с OpenRouter.","expected_route":"agent"}
+{"query":"Проверь содержимое .env локально и скажи, какие переменные заданы, не раскрывая ключ.","expected_route":"agent"}
+{"query":"Запусти curl для /route и покажи JSON-ответ.","expected_route":"agent"}
+{"query":"Проанализируй последние Git diff и найди рискованные изменения перед коммитом.","expected_route":"agent"}
+{"query":"Найди все JSONL файлы в проекте и проверь валидность каждой строки.","expected_route":"agent"}
+{"query":"Открой документацию pytest и проверь, как лучше тестировать CLI script.","expected_route":"agent"}
+{"query":"Проверь, работает ли evaluation script из другой рабочей директории.","expected_route":"agent"}
+{"query":"Найди ошибку в Windows path handling для reports/evaluation_results.json.","expected_route":"agent"}
+{"query":"Запусти evaluation с параметром --dataset и проверь, что используется новый файл.","expected_route":"agent"}
+{"query":"Прочитай app/routing_config.py и предложи новые русские keywords для agent route.","expected_route":"agent"}
+{"query":"Поищи свежие release notes OpenAI SDK и проверь breaking changes.","expected_route":"agent"}
+{"query":"Проверь, что реальные evaluation reports не попали в staged files.","expected_route":"agent"}
+{"query":"Открой файл models/router_classifier.pkl и проверь размер артефакта.","expected_route":"agent"}
+{"query":"Найди stacktrace в логах тестового запуска и объясни первопричину.","expected_route":"agent"}
+{"query":"Сравни два JSON отчета evaluation и выдели регрессии по классам.","expected_route":"agent"}
+{"query":"Проверь, какие env переменные нужны для OpenAI и OpenRouter режимов.","expected_route":"agent"}
+{"query":"Открой файл scripts/evaluate_router.py и проверь, что --output не перезаписывает старые отчеты.","expected_route":"agent"}
+{"query":"Проанализируй документ с требованиями и составь issue list для следующего спринта.","expected_route":"agent"}
+{"query":"Запусти команду git log --oneline и найди коммит про OpenRouter support.","expected_route":"agent"}
+{"query":"Поищи в интернете актуальные примеры router prompt для LLM-as-Router.","expected_route":"agent"}
+{"query":"Исправь код так, чтобы invalid route_type от LLM приводил к fallback на rules.","expected_route":"agent"}
+{"query":"Проверь весь проект на случайное попадание секретов перед публикацией.","expected_route":"agent"}
+{"query":"Открой локальный отчет evaluation и подготовь короткую таблицу результатов.","expected_route":"agent"}
+{"query":"Найди все места, где можно добавить type hints без большого рефакторинга.","expected_route":"agent"}
+{"query":"Запусти тесты только для evaluation и покажи результат.","expected_route":"agent"}
+{"query":"Проверь, что новый датасет не копирует полностью старый eval_queries.jsonl.","expected_route":"agent"}
+{"query":"Открой файл data/eval_test_queries.jsonl и посчитай количество строк по классам.","expected_route":"agent"}
+{"query":"Проверь свежий отчет evaluation и найди классы с худшей точностью.","expected_route":"agent"}
+{"query":"Открой Pull Request с изменениями роутера и оставь review comments по рискам.","expected_route":"agent"}
+{"query":"Найди в проекте все места, где сохраняются JSON-отчеты, и проверь gitignore.","expected_route":"agent"}
+{"query":"Запусти evaluation на маленьком и большом датасете и сравни результаты.","expected_route":"agent"}
+{"query":"Прочитай файл scripts/train_router_classifier.py и проверь, нет ли leakage из test dataset.","expected_route":"agent"}
+{"query":"Поищи актуальные примеры OpenRouter model ids для дешевого маршрута.","expected_route":"agent"}
+{"query":"Открой локальный .env и проверь настройки провайдера, не показывая секретный ключ.","expected_route":"agent"}
+{"query":"Исправь тест, который падает из-за изменения имени output report с timestamp.","expected_route":"agent"}
+{"query":"Найди все отчеты в папке reports и отсортируй их по времени создания.","expected_route":"agent"}
+{"query":"Проверь, что команда с --dataset корректно работает на Windows PowerShell.","expected_route":"agent"}
