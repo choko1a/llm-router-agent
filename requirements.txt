@@ -1,0 +1,12 @@
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.27,<1.0
+python-dotenv>=1.0,<2.0
+openai>=1.0,<2.0
+# The committed models/router_classifier.pkl was trained with this version.
+scikit-learn==1.6.1
+pytest>=8,<9
+httpx>=0.27,<1.0
+httpx2>=2,<3; python_version >= "3.10"
+tavily-python>=0.5,<1.0
+requests>=2.32,<3.0
+streamlit>=1.36,<2.0
