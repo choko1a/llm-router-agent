@@ -1,0 +1,12 @@
+{
+  "ROUTER_MODE": "rules",
+  "USE_MOCK": true,
+  "LLM_PROVIDER": "openai",
+  "OPENAI_CHEAP_MODEL": "gpt-4o-mini",
+  "OPENAI_STRONG_MODEL": "gpt-4o",
+  "OPENROUTER_ROUTER_MODEL": "openai/gpt-4o-mini",
+  "OPENROUTER_CHEAP_MODEL": "openai/gpt-4o-mini",
+  "OPENROUTER_STRONG_MODEL": "openai/gpt-4o",
+  "OPENROUTER_AGENT_MODEL": "openai/gpt-4o-mini",
+  "OPENROUTER_CODE_MODEL": "deepseek/deepseek-chat-v3.1"
+}
